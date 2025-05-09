@@ -1,4 +1,4 @@
-# TETRIS: Blocos em Queda
+# TheUltimateTetrisGame
 
 ## 👥 Integrantes
 - João Guilherme Aires Chagas de Oliveira (jgaco@cesar.school)
@@ -10,9 +10,6 @@ Programação Imperativa e Funcional - 2025.1
 
 ## 🏫 Instituição
 CESAR School
-
-## 🎮 Nome do jogo
-**Blocos em Queda**
 
 ## 🧰 Como compilar e executar
 
