@@ -1,20 +1,34 @@
-# cli-lib
-Command Line Interface library, for developing CLI applications and games in C. It has functions to access keyboard, screen and manage timing tasks.
+# TETRIS: Blocos em Queda
 
-## Requirements
-- This library works with the follwing OS:
-   - Linux based (Ubuntu, etc)
-   - MacOS
-- It is necessary to have GCC installed.
+## 👥 Integrantes
+- João Guilherme Aires Chagas de Oliveira (jgaco@cesar.school)
+- Bruno Henrique Leite Braga (bhlb@cesar.school)
+- Glauco Santos Seixas Cerqueira (gssc@cesar.school)
 
-## Usage 
-The file `main.c` has an example of how to use the Keyboard, Screen nd Timer functions. 
+## 🧑‍🏫 Disciplina
+Programação Imperativa e Funcional - 2025.1
 
-To build this example via command line, just switch to library root directory and type the following command:
-```
-$ gcc ./src/*.c -I./include -o cli-lib-example
-```
+## 🏫 Instituição
+CESAR School
 
-To use this library to create your own apps, simply add source and header files to your project and compile it together with your own code, 
-replacing the main.c file to your own.
+## 🎮 Nome do jogo
+**Blocos em Queda**
+
+## 🧰 Como compilar e executar
+
+### Pré-requisitos:
+- Compilador C (como `gcc`)
+- Terminal (Linux, macOS ou Windows com WSL)
+- (Opcional) Biblioteca `ncurses` se usar entrada em tempo real
+
+### Instruções:
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/projeto-tetris.git
+   cd projeto-tetris
+   
+## Sobre o jogo:
+
+Tetris é um jogo de lógica em que peças geométricas (tetraminós) caem de cima para baixo. O objetivo é encaixá-las de forma que preencham linhas horizontais completamente.
 
