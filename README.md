@@ -39,6 +39,6 @@ O jogador pode atirar para cima com projéteis que atingem os inimigos.
 
 ## 🎮 Controles do jogador:
 
-A - Esquerda
-D - Direita
-Espaço - Atira
+- A Esquerda
+- D Direita
+- Espaço Atira
