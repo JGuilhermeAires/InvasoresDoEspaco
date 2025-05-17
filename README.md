@@ -28,3 +28,17 @@ CESAR School
 ## Sobre o jogo:
 
 Space Invaders é um clássico jogo de arcade lançado em 1978 pela empresa japonesa Taito e criado por Tomohiro Nishikado. Considerado um dos títulos mais influentes da história dos videogames, ele ajudou a estabelecer os fundamentos do gênero de tiro (shoot 'em up) e marcou o início da era de ouro dos arcades.
+
+## Funcionalidades:
+
+O jogador controla um canhão laser (também chamado de base) localizado na parte inferior da tela.
+
+O movimento é limitado ao eixo horizontal, indo da esquerda para a direita.
+
+O jogador pode atirar para cima com projéteis que atingem os inimigos.
+
+## 🎮 Controles do jogador:
+
+A - Esquerda
+D - Direita
+Espaço - Atira
