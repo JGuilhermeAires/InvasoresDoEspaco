@@ -37,8 +37,25 @@ O movimento é limitado ao eixo horizontal, indo da esquerda para a direita.
 
 O jogador pode atirar para cima com projéteis que atingem os inimigos.
 
-## 🎮 Controles do jogador:
+## 🎮 Descrição das Mecânicas do Jogo:
 
-- A Esquerda
-- D Direita
-- Espaço Atira
+Objetivo
+O jogador controla uma nave representada pelos caracteres </^\>, posicionada na parte inferior da tela. O objetivo é eliminar os inimigos que aparecem na parte superior.
+
+Jogabilidade
+Movimentação do Jogador:
+O jogador pode se mover horizontalmente para a esquerda ou para a direita usando as teclas "<" (esquerda) e ">" (direita). A nave se desloca apenas em linha reta na parte inferior da tela.
+
+Tiro:
+O jogador dispara projéteis verticais pressionando a tecla Espaço. O tiro parte da posição atual da nave e viaja em linha reta para cima até atingir o topo da tela ou colidir com um inimigo.
+
+Inimigos:
+Os inimigos são representados pelos caracteres /("..")\. Eles aparecem na parte superior da tela em múltiplas posições.
+
+Colisão:
+Quando o tiro do jogador atinge um inimigo, o inimigo é eliminado e desaparece da tela. O tiro também desaparece após o impacto.
+
+Como rodar
+bash:
+
+./jogo.exe
