@@ -1,4 +1,4 @@
-# TheUltimateTetrisGame
+# Space Invaders
 
 ## 👥 Integrantes
 - João Guilherme Aires Chagas de Oliveira (jgaco@cesar.school)
@@ -27,4 +27,4 @@ CESAR School
    
 ## Sobre o jogo:
 
-Tetris é um jogo de lógica em que peças geométricas (tetraminós) caem de cima para baixo. O objetivo é encaixá-las de forma que preencham linhas horizontais completamente.
+Space Invaders é um clássico jogo de arcade lançado em 1978 pela empresa japonesa Taito e criado por Tomohiro Nishikado. Considerado um dos títulos mais influentes da história dos videogames, ele ajudou a estabelecer os fundamentos do gênero de tiro (shoot 'em up) e marcou o início da era de ouro dos arcades.
