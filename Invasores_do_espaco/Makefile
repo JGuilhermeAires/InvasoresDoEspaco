@@ -1,15 +1,14 @@
 CC=gcc
 CFLAGS=-std=c99 -I./cli-lib -I.
-LDFLAGS=-lncursesw 
+LDFLAGS=-lncursesw # <--- PARA ISTO  # Adiciona o linker flag para ncurses
 SRC=main.c game.c keyboard.c cli-lib/cli-lib.c
-TARGET=game       
+TARGET=game       # Nome do executável mais comum no Linux (sem .exe)
 
 all:
-	$(CC) $(CFLAGS) $(SRC) -o $(TARGET) $(LDFLAGS)
+	$(CC) $(CFLAGS) $(SRC) -o $(TARGET) $(LDFLAGS) # Agora LDFLAGS é -lncursesw
 
 run:
 	./$(TARGET)
 
-clean: 
+clean: # Adicionado um alvo 'clean' para remover o executável
 	rm -f $(TARGET)
-
