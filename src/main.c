@@ -1,3 +1,8 @@
+/**
+ * Main.c
+ * Created on May, 19th 2025
+ * Author: Bruno Braga
+*/
 #define _DEFAULT_SOURCE
 #include "game.h"
 #include "cli-lib.h" 
