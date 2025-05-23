@@ -28,7 +28,7 @@ sudo apt install build-essential libncurses5-dev libncursesw5-dev
 
 make
 
-./invaders
+./game
    
 ## 🎮 sobre o Jogo:
 
