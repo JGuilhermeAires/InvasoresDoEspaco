@@ -37,5 +37,5 @@ void cli_draw_int(int x, int y, int value) {
 }
 
 void cli_flush() {
-    refresh();             // Atualiza a tela física para mostrar todas as alterações feitas
+    refresh();             
 }
