@@ -12,5 +12,3 @@ run:
 
 clean: # Adicionado um alvo 'clean' para remover o executável
 	rm -f $(TARGET)
-run:
-	./game.exe
