@@ -68,4 +68,4 @@ Fim de Jogo:
 
 O jogo termina se você pressionar Q para sair.
 O jogo também termina após a mensagem de vitória ser exibida por alguns segundos.
-Divirta-se jogando sua versão do Space Invaders!
+Divirta-se jogando Invasores do Espaço!
