@@ -5,7 +5,7 @@ SRC=main.c game.c keyboard.c cli-lib/cli-lib.c
 TARGET=game       
 
 all:
-	$(CC) $(CFLAGS) $(SRC) -o $(TARGET) $(LDFLAGS) # Agora LDFLAGS é -lncursesw
+	$(CC) $(CFLAGS) $(SRC) -o $(TARGET) $(LDFLAGS)
 
 run:
 	./$(TARGET)
