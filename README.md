@@ -37,7 +37,7 @@ Como Jogar e Interagir:
 
 Sua Nave:
 
-Você controla a nave representada pelos caracteres: <^"^>
+Você controla a nave representada pelos caracteres: <^^>
 Sua nave está localizada na parte inferior da área de jogo.
 Inimigos:
 
@@ -54,7 +54,7 @@ Mecânicas do Jogo:
 Movimentação: Sua nave pode se mover horizontalmente dentro dos limites de uma área de jogo demarcada por bordas.
 Disparos: Ao atirar, um projétil é lançado da sua nave em direção ao topo da tela.
 Destruindo Inimigos: Se um dos seus projéteis atingir uma nave inimiga, ela será destruída e sua pontuação aumentará.
-Múltiplos Tiros: Você pode ter um número limitado de projéteis ativos na tela ao mesmo tempo (definido como MAX_BULLETS).
+Múltiplos Tiros: Você pode ter um número limitado de projéteis ativos na tela ao mesmo tempo.
 Como Vencer:
 
 Você vence o jogo ao destruir com sucesso todas as naves inimigas na tela.
