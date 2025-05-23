@@ -25,37 +25,42 @@ CESAR School
    git clone https://github.com/seu-usuario/projeto-tetris.git
    cd projeto-tetris
    
-## Sobre o jogo:
+## 🎮 sobre o Jogo:
 
-Space Invaders é um clássico jogo de arcade lançado em 1978 pela empresa japonesa Taito e criado por Tomohiro Nishikado. Considerado um dos títulos mais influentes da história dos videogames, ele ajudou a estabelecer os fundamentos do gênero de tiro (shoot 'em up) e marcou o início da era de ouro dos arcades.
+Esta é uma versão simplificada do clássico jogo Space Invaders, adaptada para ser jogada em uma interface de linha de comando (terminal). 
+Você controla uma nave na parte inferior da tela com o objetivo de destruir todas as naves inimigas que aparecem acima.
 
-## Funcionalidades:
+Objetivo Principal:
 
-O jogador controla um canhão laser (também chamado de base) localizado na parte inferior da tela.
+Destruir todas as naves inimigas para vencer o jogo!
+Como Jogar e Interagir:
 
-O movimento é limitado ao eixo horizontal, indo da esquerda para a direita.
+Sua Nave:
 
-O jogador pode atirar para cima com projéteis que atingem os inimigos.
-
-## 🎮 Descrição das Mecânicas do Jogo:
-
-Objetivo
-O jogador controla uma nave representada pelos caracteres </^\>, posicionada na parte inferior da tela. O objetivo é eliminar os inimigos que aparecem na parte superior.
-
-Jogabilidade
-Movimentação do Jogador:
-O jogador pode se mover horizontalmente para a esquerda ou para a direita usando as teclas "<" (esquerda) e ">" (direita). A nave se desloca apenas em linha reta na parte inferior da tela.
-
-Tiro:
-O jogador dispara projéteis verticais pressionando a tecla Espaço. O tiro parte da posição atual da nave e viaja em linha reta para cima até atingir o topo da tela ou colidir com um inimigo.
-
+Você controla a nave representada pelos caracteres: <^"^>
+Sua nave está localizada na parte inferior da área de jogo.
 Inimigos:
-Os inimigos são representados pelos caracteres /("..")\. Eles aparecem na parte superior da tela em múltiplas posições.
 
-Colisão:
-Quando o tiro do jogador atinge um inimigo, o inimigo é eliminado e desaparece da tela. O tiro também desaparece após o impacto.
+As naves inimigas são representadas pelos caracteres: ['.']
+Elas aparecem em múltiplas fileiras na parte superior da área de jogo (configuramos para 3 fileiras de 5 inimigos cada).
+Controles:
 
-Como rodar
-bash:
+Mover para a Esquerda: Pressione a tecla A (ou a) ou a Seta Esquerda do teclado.
+Mover para a Direita: Pressione a tecla D (ou d) ou a Seta Direita do teclado.
+Atirar: Pressione a tecla Espaço. Sua nave disparará um projétil (^) para cima.
+Sair do Jogo: Pressione a tecla Q (ou q) a qualquer momento para encerrar o jogo.
+Mecânicas do Jogo:
 
-./jogo.exe
+Movimentação: Sua nave pode se mover horizontalmente dentro dos limites de uma área de jogo demarcada por bordas.
+Disparos: Ao atirar, um projétil é lançado da sua nave em direção ao topo da tela.
+Destruindo Inimigos: Se um dos seus projéteis atingir uma nave inimiga, ela será destruída e sua pontuação aumentará.
+Múltiplos Tiros: Você pode ter um número limitado de projéteis ativos na tela ao mesmo tempo (definido como MAX_BULLETS).
+Como Vencer:
+
+Você vence o jogo ao destruir com sucesso todas as naves inimigas na tela.
+Ao vencer, a mensagem "Parabens voce venceu" será exibida.
+Fim de Jogo:
+
+O jogo termina se você pressionar Q para sair.
+O jogo também termina após a mensagem de vitória ser exibida por alguns segundos.
+Divirta-se jogando sua versão do Space Invaders!
