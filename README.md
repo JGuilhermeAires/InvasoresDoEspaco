@@ -21,14 +21,14 @@ CESAR School
 ### Instruções:
 
 ### Siga essa ordem de códigos para botar no seu prompt de comando e baixar, jogar o jogo 
-git clone https://github.com/JGuilhermeAires/SpaceInvaders.git
-cd SpaceInvaders
+git clone https://github.com/JGuilhermeAires/InvasoresDoEspaco.git
+cd InvasoresDoEspaco
 
 sudo apt install build-essential libncurses5-dev libncursesw5-dev
 
 make
 
-./spaceinvaders
+./invaders
    
 ## 🎮 sobre o Jogo:
 
