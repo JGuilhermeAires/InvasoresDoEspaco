@@ -22,8 +22,14 @@ CESAR School
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/projeto-tetris.git
-   cd projeto-tetris
+git clone https://github.com/JGuilhermeAires/SpaceInvaders.git
+cd SpaceInvaders
+
+sudo apt install build-essential libncurses5-dev libncursesw5-dev
+
+make
+
+./spaceinvaders
    
 ## 🎮 sobre o Jogo:
 
