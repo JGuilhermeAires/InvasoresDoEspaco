@@ -20,8 +20,7 @@ CESAR School
 
 ### Instruções:
 
-1. Clone o repositório:
-   ```bash
+### Siga essa ordem de códigos para botar no seu prompt de comando e baixar, jogar o jogo 
 git clone https://github.com/JGuilhermeAires/SpaceInvaders.git
 cd SpaceInvaders
 
