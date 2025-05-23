@@ -1,0 +1,9 @@
+#ifndef GAME_H
+#define GAME_H
+
+void init_game();
+void update_game();
+void render_game();
+int get_game_state();
+
+#endif
