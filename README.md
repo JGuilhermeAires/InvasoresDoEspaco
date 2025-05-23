@@ -1,4 +1,4 @@
-# Space Invaders
+# Invasores do Espaço
 
 ## 👥 Integrantes
 - João Guilherme Aires Chagas de Oliveira (jgaco@cesar.school)
