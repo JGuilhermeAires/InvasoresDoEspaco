@@ -1,9 +1,9 @@
 # Invasores do Espaço
 
 ## 👥 Integrantes
-- João Guilherme Aires Chagas de Oliveira (jgaco@cesar.school)
-- Bruno Henrique Leite Braga (bhlb@cesar.school)
-- Glauco Santos Seixas Cerqueira (gssc@cesar.school)
+- João Guilherme (@JGuilhermeAires)
+- Bruno Braga (@Bruno-h-Braga)
+- Glauco Santos (@glaucosantos002)
 
 ## 🧑‍🏫 Disciplina
 Programação Imperativa e Funcional - 2025.1
